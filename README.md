@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack data scientist...
+I'm a full stack web designer...
 
 
 ## 🛠 Skills
