@@ -8,13 +8,12 @@ I'm a full stack data scientist...
 
 
 ## 🛠 Skills
-
-1. python
-2. Data science
-3. Machine Learning
-4. Deep Learning
-5. AI
-with little bit of  HTML, CSS 😉..
+1.web designer
+2. python
+3. Data science
+4. Machine Learning
+5. AI Analyst
+with little bit of  Deep Learning 😉..
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/OlawaleAjet/olawaleajet)
